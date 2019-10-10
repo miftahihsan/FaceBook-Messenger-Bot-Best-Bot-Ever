@@ -1,0 +1,30 @@
+{
+  "name": "senti-bot",
+  "version": "1.0.0",
+  "description": "Senti Distributor",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "github.com/nafiz6/senti-bot"
+  },
+  "keywords": [
+    "Senti"
+  ],
+  "author": "Fizz",
+  "license": "ISC",
+  "dependencies": {
+    "async": "^2.6.2",
+    "body-parser": "^1.18.3",
+    "cheerio": "^1.0.0-rc.2",
+    "express": "^4.16.4",
+    "fetch": "^1.1.0",
+    "file-system": "^2.2.2",
+    "node-fetch": "^2.3.0",
+    "request": "^2.88.0"
+  },
+  "devDependencies": {}
+}
