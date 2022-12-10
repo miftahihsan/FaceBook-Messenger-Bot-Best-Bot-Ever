@@ -20,7 +20,7 @@
     "async": "^2.6.2",
     "body-parser": "^1.18.3",
     "cheerio": "^1.0.0-rc.2",
-    "express": "^4.16.4",
+    "express": "^4.17.3",
     "fetch": "^1.1.0",
     "file-system": "^2.2.2",
     "node-fetch": "^2.3.0",
